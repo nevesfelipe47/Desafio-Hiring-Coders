@@ -93,6 +93,7 @@ li{
     display: flex;
     width: 100%;
     padding: 60px 200px;
+    gap: 10px;
     grid-template-columns: repeat(auto-fit, minmax(180px, 380px));
     justify-content: center;
 }
@@ -125,7 +126,7 @@ li{
 }
 aside img{
     width: auto;
-    height: 60vh;
+    height: 40vh;
     margin-left:3rem;
 }
 .subtitulo {
