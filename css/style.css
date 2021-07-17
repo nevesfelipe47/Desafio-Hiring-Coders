@@ -93,7 +93,7 @@ li{
     display: flex;
     width: 100%;
     padding: 60px 200px;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 480px));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 380px));
     justify-content: center;
 }
 
